@@ -8,7 +8,7 @@ footer: Open-source MIT Licensed | Copyright © 2021<br />Powered by [wywppkd](h
 
 ## 轻松上手!
 
-- 想要检查 Android, iOS, iPhone, iPad, Chrome, Safari..., 推荐阅读: TODO
+- 想要检查 Android, iOS, iPhone, iPad, Chrome, Safari..., 推荐阅读: https://juejin.cn/post/7045237897145876488
 
 ```bash
 npm i check-platform
